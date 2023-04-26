@@ -1,0 +1,7 @@
+PROYECTO CON INTELIGENCIA ARTIFICIAL:
+    * Fotografia
+    * Tiene que ser organizado por organizadores.
+    * El metodo de pago.
+    * Se tiene que poder comprar fotos.
+    * El dueño se saca foto y la IA identifica si aparece
+    * A un evento entrar 10, y 
